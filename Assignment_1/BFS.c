@@ -1,5 +1,5 @@
-//Name-Abhishek Wekhande
-//PRN-22070521113
+//Name-Soumya Shivankar
+//PRN-22070521177
 
 #include <stdio.h>
 #include <stdlib.h>
